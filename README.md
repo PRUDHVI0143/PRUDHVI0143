@@ -8,7 +8,9 @@
 🎯 I create interactive projects using Python, JavaScript & ML  <br/>
 🌱 Currently exploring Generative AI and intelligent systems  <br/>
 🔥 Interested in Artificial Intelligence, Web Apps & Automation <br/>
-[INSTAGRAM](https://www.instagram.com/its_prudhviraj/?__pwa=1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/its_prudhviraj/?__pwa=1)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prudhvi-raj-a3a711289/)
 
 
 # 💻 Tech Stack:
