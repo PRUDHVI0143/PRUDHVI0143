@@ -1,4 +1,4 @@
-## Hi, I'm Prudhvi Raj 👨‍💻✨
+## Hello🤗, I'm Prudhvi Raj 👨‍💻✨
 
 🤖 AI & Machine Learning Enthusiast<br/>
 💻 Computer Science student at Lovely Professional University <br/> 
