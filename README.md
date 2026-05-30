@@ -9,9 +9,14 @@
 🌱 Currently exploring Generative AI and intelligent systems  <br/>
 🔥 Interested in Artificial Intelligence, Web Apps & Automation <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/its_prudhviraj/?__pwa=1)
+[![Visitors](https://img.shields.io/badge/👤%20My%20Portfolio-blue?style=for-the-badge)](https://portfolio-beta-brown-mvvhisvypr.vercel.app/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prudhvi-raj-a3a711289/)
+🌐 Connect With Me <br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/its_prudhviraj/?__pwa=1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prudhvi-raj-a3a711289/)
+
+
 
 
 # 💻 Tech Stack:
@@ -22,6 +27,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PRUDHVI0143&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![Visitors](https://img.shields.io/badge/👤%20My%20Portfolio-blue?style=for-the-badge)](https://portfolio-beta-brown-mvvhisvypr.vercel.app/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
