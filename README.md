@@ -9,7 +9,7 @@
 🌱 Currently exploring Generative AI and intelligent systems  <br/>
 🔥 Interested in Artificial Intelligence, Web Apps & Automation <br/>
 
-[![Visitors](https://img.shields.io/badge/👤%20My%20Portfolio-blue?style=for-the-badge)](https://portfolio-beta-brown-mvvhisvypr.vercel.app/)
+[![Visitors](https://img.shields.io/badge/👤%20My%20Portfolio-blue?style=for-the-badge)](https://portfolio-2025-flame-psi.vercel.app/)
 
 🌐 Connect With Me <br/>
 
